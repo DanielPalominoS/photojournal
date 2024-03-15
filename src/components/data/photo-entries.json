@@ -1,0 +1,28 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "Popayan.JPG",
+      "caption"  : "Colombian religious capital",
+      "location" : "Popayan Colombia"
+    },
+
+    {
+      "src"      : "Cartagena.JPG",
+      "caption"  : "Southern California",
+      "location" : "Beverly Hills, USA"
+    },
+
+    {
+      "src"      : "VLeiva.JPG",
+      "caption"  : "Villa de LeyvaBeautiful downtown",
+      "location" : "Boyaca, Colombia"
+    },
+
+    {
+      "src"      : "ECI.JPG",
+      "caption"  : "Top engineering university in Colombia",
+      "location" : "Bogotá, Colombia"
+    }
+  ]
+}
