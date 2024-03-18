@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/photojournal/static/css/main.b67aa641.css",
-    "main.js": "/photojournal/static/js/main.d33b814f.js",
+    "main.js": "/photojournal/static/js/main.4cfea10c.js",
     "static/js/453.6c774e51.chunk.js": "/photojournal/static/js/453.6c774e51.chunk.js",
     "static/media/logo.svg": "/photojournal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/photojournal/index.html",
     "main.b67aa641.css.map": "/photojournal/static/css/main.b67aa641.css.map",
-    "main.d33b814f.js.map": "/photojournal/static/js/main.d33b814f.js.map",
+    "main.4cfea10c.js.map": "/photojournal/static/js/main.4cfea10c.js.map",
     "453.6c774e51.chunk.js.map": "/photojournal/static/js/453.6c774e51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b67aa641.css",
-    "static/js/main.d33b814f.js"
+    "static/js/main.4cfea10c.js"
   ]
 }
