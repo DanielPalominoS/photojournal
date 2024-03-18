@@ -4,7 +4,7 @@ import './master.css'
 function BannerImage() {
     return (
         <div>
-            <img className="banner" src="../images/Codito.JPG" alt="BannerImage" />
+            <img className="banner" src={process.env.PUBLIC_URL + '/images/Codito.JPG'} alt="BannerImage" />
         </div>
     )
 }
